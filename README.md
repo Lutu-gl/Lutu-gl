@@ -1,5 +1,5 @@
 <p align="center"> 
-  <a href=#><img src="contributions.svg"></a>
+ ![]([https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif])
   <br><br>
 
   Visitor counter<br>
