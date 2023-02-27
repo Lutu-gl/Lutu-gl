@@ -1,5 +1,5 @@
 <p align="center"> 
- ![]([https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif])
+ ![](https://media.giphy.com/media/cegWQ66TiGYDK/giphy.gif)
   <br><br>
 
   Visitor counter<br>
